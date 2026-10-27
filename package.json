@@ -1,0 +1,7 @@
+{
+  "name": "cetus-price-cal",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "22.x" },
+  "scripts": { "test": "node --test tests/api.test.mjs", "dev": "node scripts/dev.mjs" }
+}
